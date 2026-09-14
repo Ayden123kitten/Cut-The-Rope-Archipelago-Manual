@@ -42,8 +42,10 @@ def before_is_category_enabled(multiworld: MultiWorld, player: int, category_nam
     if category_name == "Box 17":
         return get_option_value(multiworld, player, "Boxes") >= 17
 
+    if category_name == "Star Unlocks - Individual":
+        return get_option_value(multiworld, player, "Star_Unlocks_Type") == 1
     if category_name == "Star Unlocks - Progressive Per Level":
-        return get_option_value(multiworld, player, "Boxes") == 2
+        return get_option_value(multiworld, player, "Star_Unlocks_Type") == 2
 
     return None
 

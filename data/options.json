@@ -50,7 +50,7 @@
       "type": "Toggle",
       "display_name": "Box Unlocks",
       "description": ["Do you want to unlock individual boxes?"],
-      "default": true
+      "default": false
     },
     "Starsanity": {
       "type": "Toggle",
@@ -58,17 +58,17 @@
       "description": [
         "Do you want to enable Starsanity? This adds locations for completing levels with every star amount possible (0, 1, 2, and 3)."
       ],
-      "default": true
+      "default": false
     },
-    "Star Unlocks": {
+    "Star_Unlocks": {
       "type": "Toggle",
       "display_name": "Star Unlocks",
       "description": [
-        "Do you want to unlock individual stars? This adds 3 items per level."
+        "Do you want to have to unlock individual stars? This adds 3 items per level."
       ],
       "default": true
     },
-    "Star Unlocks_Type": {
+    "Star_Unlocks_Type": {
       "type": "choice",
       "display_name": "Star Unlocks Type",
       "description": [
@@ -78,7 +78,8 @@
         "Progressive Per Box: There are 3 star unlocks items per box, which progressively unlock star completion locations for that box.",
         "One Per Level: There is 1 star unlock per level, which unlocks all star completion locations for that level.",
         "One Per Box: There is 1 star unlock per box, which unlocks all star completion locations for that box.",
-        "One Per Star Amount: There is 1 star unlock per star amount, which unlocks all star completion locations for that star amount."
+        "One Per Star Amount: There is 1 star unlock per star amount, which unlocks all star completion locations for that star amount.",
+        "One For All: There is 1 star unlock, which unlocks all star completion locations."
       ],
       "values": {
         "Individual": 1,
@@ -86,9 +87,18 @@
         "Progressive Per Box": 3,
         "One Per Level": 4,
         "One Per Box": 5,
-        "One Per Star Amount": 6
+        "One Per Star Amount": 6,
+        "One For All": 7
       },
       "default": 2
+    },
+    "0_Star_Unlocks": {
+      "type": "Toggle",
+      "display_name": "0 Star Unlocks",
+      "description": [
+        "Do you want to have to unlock 0 star completions? This requires Star Unlocks to be enabled."
+      ],
+      "default": false
     }
   }
 }

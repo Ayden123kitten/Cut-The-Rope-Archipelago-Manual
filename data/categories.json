@@ -13,7 +13,10 @@
     "yaml_option": ["Starsanity"]
   },
   "Star Unlocks": {
-    "yaml_option": ["Star Unlocks"]
+    "yaml_option": ["Star_Unlocks"]
+  },
+  "Star Unlocks - Individual": {
+    "hidden": true
   },
   "Star Unlocks - Progressive Per Level": {
     "hidden": true
