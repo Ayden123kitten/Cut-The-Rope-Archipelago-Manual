@@ -1,9 +1,7 @@
 {
   "core": {
     "goal": {
-      "display_name": "Goal",
-      "description": "What is your goal?",
-      "hidden": false
+      "hidden": true
     },
     "death_link": {
       "default": false
@@ -13,9 +11,7 @@
     "Level_Goal_Amount": {
       "type": "Range",
       "display_name": "Level Goal Amount",
-      "description": [
-        "If your goal is to beat a specific number of levels, how many levels do you want to have to beat to goal?"
-      ],
+      "description": ["How many levels do you want to have to beat to goal?"],
       "range_start": 5,
       "range_end": 425,
       "default": 50
@@ -23,9 +19,7 @@
     "Box_Goal_Amount": {
       "type": "Range",
       "display_name": "Box Goal Amount",
-      "description": [
-        "If your goal is to beat a specific number of boxes, how many boxes do you want to have to beat to goal?"
-      ],
+      "description": ["How many boxes do you want to have to beat to goal?"],
       "range_start": 1,
       "range_end": 425,
       "default": 50
@@ -79,12 +73,12 @@
       "display_name": "Star Unlocks Type",
       "description": [
         "What type of star unlocks do you want? This required Star Unlocks to be enabled.",
-        "Individual: There are 3 star unlocks per level, which individually unlock star completion locations on each level.",
-        "Progressive Per Level: There are 3 star unlocks items per level, which progressively unlock star completion locations on each level.",
-        "Progressive Per Box: There are 3 star unlocks items per box, which progressively unlock star completion locations on each box.",
-        "Progressive Per Level: There are 3 star unlocks items per level, which progressively unlock star completion locations on each level.",
-        "Progressive Per Level: There are 3 star unlocks items per level, which progressively unlock star completion locations on each level.",
-        "Progressive Per Level: There are 3 star unlocks items per level, which progressively unlock star completion locations on each level."
+        "Individual: There are 3 star unlocks per level, which individually unlock star completion locations for that level.",
+        "Progressive Per Level: There are 3 star unlocks items per level, which progressively unlock star completion locations for that level.",
+        "Progressive Per Box: There are 3 star unlocks items per box, which progressively unlock star completion locations for that box.",
+        "One Per Level: There is 1 star unlock per level, which unlocks all star completion locations for that level.",
+        "One Per Box: There is 1 star unlock per box, which unlocks all star completion locations for that box.",
+        "One Per Star Amount: There is 1 star unlock per star amount, which unlocks all star completion locations for that star amount."
       ],
       "values": {
         "Individual": 1,
