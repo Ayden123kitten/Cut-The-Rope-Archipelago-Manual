@@ -1,0 +1,6464 @@
+{
+  "data": [
+    {
+      "name": "Box 1 Unlock",
+      "category": ["Box 1", "Box Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Unlock",
+      "category": ["Box 2", "Box Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Unlock",
+      "category": ["Box 3", "Box Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Unlock",
+      "category": ["Box 4", "Box Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Unlock",
+      "category": ["Box 5", "Box Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Unlock",
+      "category": ["Box 6", "Box Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Unlock",
+      "category": ["Box 7", "Box Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Unlock",
+      "category": ["Box 8", "Box Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Unlock",
+      "category": ["Box 9", "Box Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Unlock",
+      "category": ["Box 10", "Box Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Unlock",
+      "category": ["Box 11", "Box Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Unlock",
+      "category": ["Box 12", "Box Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Unlock",
+      "category": ["Box 13", "Box Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Unlock",
+      "category": ["Box 14", "Box Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Unlock",
+      "category": ["Box 15", "Box Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Unlock",
+      "category": ["Box 16", "Box Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Unlock",
+      "category": ["Box 17", "Box Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 1 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 2 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 3 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 4 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 5 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 6 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 7 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 8 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 9 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 10 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 11 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 12 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 13 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 14 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 15 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 16 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 17 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 18 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 19 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 20 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 21 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 22 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 23 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 24 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 1 Level 25 Unlock",
+      "category": ["Box 1", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 1 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 2 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 3 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 4 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 5 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 6 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 7 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 8 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 9 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 10 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 11 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 12 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 13 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 14 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 15 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 16 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 17 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 18 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 19 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 20 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 21 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 22 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 23 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 24 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 2 Level 25 Unlock",
+      "category": ["Box 2", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 1 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 2 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 3 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 4 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 5 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 6 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 7 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 8 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 9 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 10 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 11 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 12 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 13 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 14 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 15 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 16 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 17 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 18 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 19 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 20 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 21 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 22 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 23 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 24 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 3 Level 25 Unlock",
+      "category": ["Box 3", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 1 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 2 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 3 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 4 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 5 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 6 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 7 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 8 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 9 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 10 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 11 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 12 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 13 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 14 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 15 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 16 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 17 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 18 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 19 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 20 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 21 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 22 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 23 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 24 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 4 Level 25 Unlock",
+      "category": ["Box 4", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 1 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 2 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 3 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 4 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 5 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 6 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 7 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 8 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 9 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 10 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 11 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 12 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 13 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 14 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 15 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 16 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 17 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 18 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 19 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 20 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 21 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 22 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 23 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 24 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 5 Level 25 Unlock",
+      "category": ["Box 5", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 1 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 2 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 3 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 4 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 5 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 6 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 7 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 8 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 9 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 10 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 11 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 12 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 13 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 14 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 15 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 16 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 17 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 18 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 19 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 20 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 21 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 22 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 23 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 24 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 6 Level 25 Unlock",
+      "category": ["Box 6", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 1 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 2 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 3 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 4 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 5 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 6 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 7 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 8 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 9 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 10 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 11 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 12 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 13 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 14 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 15 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 16 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 17 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 18 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 19 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 20 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 21 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 22 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 23 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 24 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 7 Level 25 Unlock",
+      "category": ["Box 7", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 1 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 2 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 3 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 4 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 5 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 6 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 7 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 8 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 9 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 10 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 11 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 12 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 13 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 14 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 15 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 16 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 17 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 18 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 19 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 20 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 21 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 22 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 23 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 24 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 8 Level 25 Unlock",
+      "category": ["Box 8", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 1 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 2 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 3 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 4 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 5 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 6 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 7 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 8 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 9 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 10 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 11 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 12 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 13 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 14 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 15 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 16 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 17 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 18 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 19 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 20 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 21 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 22 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 23 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 24 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 9 Level 25 Unlock",
+      "category": ["Box 9", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 1 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 2 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 3 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 4 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 5 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 6 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 7 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 8 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 9 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 10 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 11 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 12 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 13 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 14 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 15 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 16 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 17 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 18 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 19 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 20 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 21 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 22 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 23 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 24 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 10 Level 25 Unlock",
+      "category": ["Box 10", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 1 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 2 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 3 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 4 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 5 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 6 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 7 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 8 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 9 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 10 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 11 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 12 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 13 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 14 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 15 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 16 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 17 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 18 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 19 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 20 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 21 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 22 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 23 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 24 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 11 Level 25 Unlock",
+      "category": ["Box 11", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 1 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 2 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 3 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 4 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 5 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 6 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 7 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 8 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 9 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 10 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 11 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 12 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 13 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 14 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 15 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 16 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 17 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 18 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 19 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 20 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 21 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 22 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 23 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 24 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 12 Level 25 Unlock",
+      "category": ["Box 12", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 1 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 2 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 3 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 4 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 5 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 6 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 7 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 8 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 9 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 10 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 11 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 12 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 13 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 14 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 15 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 16 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 17 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 18 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 19 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 20 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 21 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 22 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 23 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 24 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 13 Level 25 Unlock",
+      "category": ["Box 13", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 1 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 2 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 3 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 4 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 5 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 6 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 7 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 8 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 9 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 10 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 11 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 12 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 13 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 14 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 15 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 16 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 17 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 18 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 19 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 20 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 21 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 22 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 23 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 24 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 14 Level 25 Unlock",
+      "category": ["Box 14", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 1 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 2 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 3 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 4 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 5 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 6 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 7 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 8 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 9 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 10 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 11 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 12 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 13 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 14 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 15 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 16 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 17 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 18 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 19 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 20 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 21 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 22 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 23 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 24 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 15 Level 25 Unlock",
+      "category": ["Box 15", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 1 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 2 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 3 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 4 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 5 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 6 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 7 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 8 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 9 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 10 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 11 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 12 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 13 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 14 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 15 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 16 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 17 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 18 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 19 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 20 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 21 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 22 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 23 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 24 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 16 Level 25 Unlock",
+      "category": ["Box 16", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 1 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 2 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 3 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 4 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 5 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 6 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 7 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 8 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 9 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 10 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 11 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 12 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 13 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 14 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 15 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 16 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 17 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 18 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 19 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 20 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 21 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 22 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 23 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 24 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "name": "Box 17 Level 25 Unlock",
+      "category": ["Box 17", "Level Unlocks"],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 1 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 2 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 3 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 4 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 5 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 6 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 7 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 8 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 9 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 10 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 11 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 12 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 13 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 14 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 15 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 16 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 17 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 18 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 19 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 20 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 21 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 22 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 23 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 24 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 1 Level 25 Progressive Star Unlock",
+      "category": [
+        "Box 1",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 1 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 2 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 3 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 4 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 5 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 6 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 7 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 8 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 9 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 10 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 11 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 12 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 13 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 14 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 15 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 16 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 17 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 18 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 19 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 20 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 21 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 22 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 23 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 24 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 2 Level 25 Progressive Star Unlock",
+      "category": [
+        "Box 2",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 1 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 2 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 3 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 4 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 5 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 6 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 7 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 8 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 9 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 10 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 11 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 12 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 13 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 14 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 15 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 16 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 17 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 18 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 19 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 20 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 21 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 22 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 23 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 24 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 3 Level 25 Progressive Star Unlock",
+      "category": [
+        "Box 3",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 1 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 2 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 3 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 4 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 5 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 6 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 7 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 8 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 9 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 10 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 11 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 12 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 13 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 14 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 15 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 16 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 17 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 18 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 19 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 20 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 21 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 22 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 23 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 24 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 4 Level 25 Progressive Star Unlock",
+      "category": [
+        "Box 4",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 1 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 2 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 3 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 4 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 5 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 6 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 7 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 8 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 9 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 10 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 11 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 12 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 13 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 14 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 15 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 16 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 17 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 18 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 19 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 20 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 21 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 22 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 23 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 24 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 5 Level 25 Progressive Star Unlock",
+      "category": [
+        "Box 5",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 1 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 2 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 3 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 4 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 5 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 6 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 7 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 8 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 9 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 10 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 11 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 12 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 13 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 14 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 15 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 16 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 17 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 18 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 19 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 20 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 21 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 22 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 23 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 24 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 6 Level 25 Progressive Star Unlock",
+      "category": [
+        "Box 6",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 1 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 2 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 3 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 4 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 5 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 6 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 7 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 8 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 9 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 10 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 11 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 12 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 13 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 14 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 15 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 16 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 17 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 18 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 19 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 20 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 21 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 22 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 23 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 24 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 7 Level 25 Progressive Star Unlock",
+      "category": [
+        "Box 7",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 1 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 2 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 3 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 4 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 5 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 6 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 7 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 8 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 9 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 10 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 11 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 12 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 13 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 14 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 15 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 16 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 17 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 18 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 19 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 20 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 21 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 22 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 23 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 24 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 8 Level 25 Progressive Star Unlock",
+      "category": [
+        "Box 8",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 1 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 2 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 3 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 4 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 5 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 6 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 7 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 8 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 9 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 10 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 11 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 12 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 13 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 14 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 15 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 16 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 17 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 18 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 19 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 20 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 21 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 22 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 23 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 24 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 9 Level 25 Progressive Star Unlock",
+      "category": [
+        "Box 9",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 1 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 2 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 3 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 4 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 5 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 6 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 7 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 8 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 9 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 10 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 11 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 12 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 13 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 14 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 15 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 16 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 17 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 18 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 19 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 20 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 21 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 22 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 23 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 24 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 10 Level 25 Progressive Star Unlock",
+      "category": [
+        "Box 10",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 1 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 2 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 3 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 4 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 5 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 6 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 7 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 8 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 9 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 10 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 11 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 12 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 13 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 14 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 15 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 16 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 17 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 18 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 19 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 20 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 21 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 22 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 23 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 24 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 11 Level 25 Progressive Star Unlock",
+      "category": [
+        "Box 11",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 1 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 2 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 3 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 4 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 5 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 6 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 7 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 8 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 9 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 10 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 11 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 12 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 13 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 14 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 15 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 16 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 17 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 18 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 19 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 20 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 21 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 22 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 23 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 24 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 12 Level 25 Progressive Star Unlock",
+      "category": [
+        "Box 12",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 1 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 2 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 3 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 4 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 5 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 6 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 7 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 8 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 9 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 10 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 11 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 12 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 13 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 14 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 15 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 16 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 17 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 18 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 19 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 20 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 21 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 22 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 23 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 24 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 13 Level 25 Progressive Star Unlock",
+      "category": [
+        "Box 13",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 1 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 2 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 3 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 4 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 5 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 6 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 7 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 8 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 9 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 10 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 11 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 12 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 13 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 14 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 15 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 16 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 17 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 18 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 19 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 20 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 21 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 22 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 23 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 24 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 14 Level 25 Progressive Star Unlock",
+      "category": [
+        "Box 14",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 1 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 2 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 3 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 4 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 5 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 6 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 7 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 8 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 9 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 10 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 11 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 12 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 13 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 14 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 15 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 16 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 17 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 18 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 19 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 20 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 21 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 22 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 23 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 24 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 15 Level 25 Progressive Star Unlock",
+      "category": [
+        "Box 15",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 1 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 2 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 3 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 4 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 5 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 6 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 7 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 8 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 9 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 10 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 11 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 12 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 13 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 14 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 15 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 16 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 17 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 18 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 19 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 20 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 21 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 22 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 23 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 24 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 16 Level 25 Progressive Star Unlock",
+      "category": [
+        "Box 16",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 1 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 2 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 3 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 4 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 5 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 6 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 7 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 8 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 9 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 10 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 11 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 12 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 13 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 14 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 15 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 16 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 17 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 18 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 19 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 20 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 21 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 22 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 23 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 24 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Box 17 Level 25 Progressive Star Unlock",
+      "category": [
+        "Box 17",
+        "Star Unlocks",
+        "Star Unlocks - Progressive Per Level"
+      ],
+      "progression": true
+    }
+  ]
+}

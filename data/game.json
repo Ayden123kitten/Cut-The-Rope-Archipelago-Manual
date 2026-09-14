@@ -1,0 +1,81 @@
+{
+  "game": "CutTheRope",
+  "creator": "Ayden",
+  "filler_item_name": "Star",
+  "starting_items": [
+    {
+      "items_categories": ["Box Unlocks"],
+      "random": 1
+    },
+    {
+      "if_previous_item": "Box 1 Unlock",
+      "items": ["Box 1 Level 1 Unlock", "Box 1 Level 2 Unlock", "Box 1 Level 3 Unlock", "Box 1 Level 4 Unlock", "Box 1 Level 5 Unlock"]
+    },
+    {
+      "if_previous_item": "Box 2 Unlock",
+      "items": ["Box 2 Level 1 Unlock", "Box 2 Level 2 Unlock", "Box 2 Level 3 Unlock", "Box 2 Level 4 Unlock", "Box 2 Level 5 Unlock"]
+    },
+    {
+      "if_previous_item": "Box 3 Unlock",
+      "items": ["Box 3 Level 1 Unlock", "Box 3 Level 2 Unlock", "Box 3 Level 3 Unlock", "Box 3 Level 4 Unlock", "Box 3 Level 5 Unlock"]
+    },
+    {
+      "if_previous_item": "Box 4 Unlock",
+      "items": ["Box 4 Level 1 Unlock", "Box 4 Level 2 Unlock", "Box 4 Level 3 Unlock", "Box 4 Level 4 Unlock", "Box 4 Level 5 Unlock"]
+    },
+    {
+      "if_previous_item": "Box 5 Unlock",
+      "items": ["Box 5 Level 1 Unlock", "Box 5 Level 2 Unlock", "Box 5 Level 3 Unlock", "Box 5 Level 4 Unlock", "Box 5 Level 5 Unlock"]
+    },
+    {
+      "if_previous_item": "Box 6 Unlock",
+      "items": ["Box 6 Level 1 Unlock", "Box 6 Level 2 Unlock", "Box 6 Level 3 Unlock", "Box 6 Level 4 Unlock", "Box 6 Level 5 Unlock"]
+    },
+    {
+      "if_previous_item": "Box 7 Unlock",
+      "items": ["Box 7 Level 1 Unlock", "Box 7 Level 2 Unlock", "Box 7 Level 3 Unlock", "Box 7 Level 4 Unlock", "Box 7 Level 5 Unlock"]
+    },
+    {
+      "if_previous_item": "Box 8 Unlock",
+      "items": ["Box 8 Level 1 Unlock", "Box 8 Level 2 Unlock", "Box 8 Level 3 Unlock", "Box 8 Level 4 Unlock", "Box 8 Level 5 Unlock"]
+    },
+    {
+      "if_previous_item": "Box 9 Unlock",
+      "items": ["Box 9 Level 1 Unlock", "Box 9 Level 2 Unlock", "Box 9 Level 3 Unlock", "Box 9 Level 4 Unlock", "Box 9 Level 5 Unlock"]
+    },
+    {
+      "if_previous_item": "Box 10 Unlock",
+      "items": ["Box 10 Level 1 Unlock", "Box 10 Level 2 Unlock", "Box 10 Level 3 Unlock", "Box 10 Level 4 Unlock", "Box 10 Level 5 Unlock"]
+    },
+    {
+      "if_previous_item": "Box 11 Unlock",
+      "items": ["Box 11 Level 1 Unlock", "Box 11 Level 2 Unlock", "Box 11 Level 3 Unlock", "Box 11 Level 4 Unlock", "Box 11 Level 5 Unlock"]
+    },
+    {
+      "if_previous_item": "Box 12 Unlock",
+      "items": ["Box 12 Level 1 Unlock", "Box 12 Level 2 Unlock", "Box 12 Level 3 Unlock", "Box 12 Level 4 Unlock", "Box 12 Level 5 Unlock"]
+    },
+    {
+      "if_previous_item": "Box 13 Unlock",
+      "items": ["Box 13 Level 1 Unlock", "Box 13 Level 2 Unlock", "Box 13 Level 3 Unlock", "Box 13 Level 4 Unlock", "Box 13 Level 5 Unlock"]
+    },
+    {
+      "if_previous_item": "Box 14 Unlock",
+      "items": ["Box 14 Level 1 Unlock", "Box 14 Level 2 Unlock", "Box 14 Level 3 Unlock", "Box 14 Level 4 Unlock", "Box 14 Level 5 Unlock"]
+    },
+    {
+      "if_previous_item": "Box 15 Unlock",
+      "items": ["Box 15 Level 1 Unlock", "Box 15 Level 2 Unlock", "Box 15 Level 3 Unlock", "Box 15 Level 4 Unlock", "Box 15 Level 5 Unlock"]
+    },
+    {
+      "if_previous_item": "Box 16 Unlock",
+      "items": ["Box 16 Level 1 Unlock", "Box 16 Level 2 Unlock", "Box 16 Level 3 Unlock", "Box 16 Level 4 Unlock", "Box 16 Level 5 Unlock"]
+    },
+    {
+      "if_previous_item": "Box 17 Unlock",
+      "items": ["Box 17 Level 1 Unlock", "Box 17 Level 2 Unlock", "Box 17 Level 3 Unlock", "Box 17 Level 4 Unlock", "Box 17 Level 5 Unlock"]
+    }
+  ],
+  "death_link": true,
+  "starting_index": 1
+}

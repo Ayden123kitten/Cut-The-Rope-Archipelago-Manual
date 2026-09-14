@@ -1,0 +1,54 @@
+{
+  "Box 1": {
+    "requires": "{OptOne(Box 1 Unlock)}"
+  },
+  "Box 2": {
+    "requires": "{OptOne(Box 2 Unlock)}"
+  },
+  "Box 3": {
+    "requires": "{OptOne(Box 3 Unlock)}"
+  },
+  "Box 4": {
+    "requires": "{OptOne(Box 4 Unlock)}"
+  },
+  "Box 5": {
+    "requires": "{OptOne(Box 5 Unlock)}"
+  },
+  "Box 6": {
+    "requires": "{OptOne(Box 6 Unlock)}"
+  },
+  "Box 7": {
+    "requires": "{OptOne(Box 7 Unlock)}"
+  },
+  "Box 8": {
+    "requires": "{OptOne(Box 8 Unlock)}"
+  },
+  "Box 9": {
+    "requires": "{OptOne(Box 9 Unlock)}"
+  },
+  "Box 10": {
+    "requires": "{OptOne(Box 10 Unlock)}"
+  },
+  "Box 11": {
+    "requires": "{OptOne(Box 11 Unlock)}"
+  },
+  "Box 12": {
+    "requires": "{OptOne(Box 12 Unlock)}"
+  },
+  "Box 13": {
+    "requires": "{OptOne(Box 13 Unlock)}"
+  },
+  "Box 14": {
+    "requires": "{OptOne(Box 14 Unlock)}"
+  },
+  "Box 15": {
+    "requires": "{OptOne(Box 15 Unlock)}"
+  },
+  "Box 16": {
+    "requires": "{OptOne(Box 16 Unlock)}"
+  },
+  "Box 17": {
+    "requires": "{OptOne(Box 17 Unlock)}"
+  },
+  "Goal": {}
+}

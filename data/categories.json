@@ -1,0 +1,21 @@
+{
+  "Box Unlocks": {
+    "yaml_option": ["Box_Unlocks"]
+  },
+  "Level Unlocks": {
+    "yaml_option": ["Level_Unlocks"]
+  },
+  "Regular Levels": {
+    "yaml_option": ["Levels"],
+    "hidden": true
+  },
+  "Starsanity": {
+    "yaml_option": ["Starsanity"]
+  },
+  "Star Unlocks": {
+    "yaml_option": ["Star Unlocks"]
+  },
+  "Star Unlocks - Progressive Per Level": {
+    "hidden": true
+  }
+}

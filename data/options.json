@@ -1,0 +1,100 @@
+{
+  "core": {
+    "goal": {
+      "display_name": "Goal",
+      "description": "What is your goal?",
+      "hidden": false
+    },
+    "death_link": {
+      "default": false
+    }
+  },
+  "user": {
+    "Level_Goal_Amount": {
+      "type": "Range",
+      "display_name": "Level Goal Amount",
+      "description": [
+        "If your goal is to beat a specific number of levels, how many levels do you want to have to beat to goal?"
+      ],
+      "range_start": 5,
+      "range_end": 425,
+      "default": 50
+    },
+    "Box_Goal_Amount": {
+      "type": "Range",
+      "display_name": "Box Goal Amount",
+      "description": [
+        "If your goal is to beat a specific number of boxes, how many boxes do you want to have to beat to goal?"
+      ],
+      "range_start": 1,
+      "range_end": 425,
+      "default": 50
+    },
+    "Boxes": {
+      "type": "Range",
+      "display_name": "Boxes",
+      "description": [
+        "How many Boxes you want to include, going from the first one to the last one."
+      ],
+      "range_start": 1,
+      "range_end": 17,
+      "default": 1
+    },
+    "Level_Unlocks": {
+      "type": "Toggle",
+      "display_name": "Level Unlocks",
+      "description": ["Do you want to unlock individual levels?"],
+      "default": true
+    },
+    "Levels": {
+      "type": "Toggle",
+      "display_name": "Levels",
+      "description": ["Do you want to enable individual levels as locations?"],
+      "default": true
+    },
+    "Box_Unlocks": {
+      "type": "Toggle",
+      "display_name": "Box Unlocks",
+      "description": ["Do you want to unlock individual boxes?"],
+      "default": true
+    },
+    "Starsanity": {
+      "type": "Toggle",
+      "display_name": "Starsanity",
+      "description": [
+        "Do you want to enable Starsanity? This adds locations for completing levels with every star amount possible (0, 1, 2, and 3)."
+      ],
+      "default": true
+    },
+    "Star Unlocks": {
+      "type": "Toggle",
+      "display_name": "Star Unlocks",
+      "description": [
+        "Do you want to unlock individual stars? This adds 3 items per level."
+      ],
+      "default": true
+    },
+    "Star Unlocks_Type": {
+      "type": "choice",
+      "display_name": "Star Unlocks Type",
+      "description": [
+        "What type of star unlocks do you want? This required Star Unlocks to be enabled.",
+        "Individual: There are 3 star unlocks per level, which individually unlock star completion locations on each level.",
+        "Progressive Per Level: There are 3 star unlocks items per level, which progressively unlock star completion locations on each level.",
+        "Progressive Per Box: There are 3 star unlocks items per box, which progressively unlock star completion locations on each box.",
+        "Progressive Per Level: There are 3 star unlocks items per level, which progressively unlock star completion locations on each level.",
+        "Progressive Per Level: There are 3 star unlocks items per level, which progressively unlock star completion locations on each level.",
+        "Progressive Per Level: There are 3 star unlocks items per level, which progressively unlock star completion locations on each level."
+      ],
+      "values": {
+        "Individual": 1,
+        "Progressive Per Level": 2,
+        "Progressive Per Box": 3,
+        "One Per Level": 4,
+        "One Per Box": 5,
+        "One Per Star Amount": 6
+      },
+      "default": 2
+    }
+  }
+}
